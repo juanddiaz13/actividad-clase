@@ -1,0 +1,20 @@
+{
+  "name": "practica-clase",
+  "version": "1.0.0",
+  "description": "practica clase. bo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanddiaz13/actividad-clase.git"
+  },
+  "author": "juan diaz -  nicolas jaramillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanddiaz13/actividad-clase/issues"
+  },
+  "homepage": "https://github.com/juanddiaz13/actividad-clase#readme"
+}
